@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>E6F829B5-28C4-4554-9A1E-B69606A36FB7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>手势</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>39609F78C9976E72AAB0FBF36E04615043AF0C43</key>
 		<string>https://github.com/codeWillwillCode/AssistiveButton.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>手势.xcodeproj/project.xcworkspace</string>
+	<string>手势.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>39609F78C9976E72AAB0FBF36E04615043AF0C43</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>39609F78C9976E72AAB0FBF36E04615043AF0C43</string>
 			<key>IDESourceControlWCCName</key>
-			<string>%E6%89%8B%E5%8A%BF</string>
+			<string>AssistiveButton</string>
 		</dict>
 	</array>
 </dict>
